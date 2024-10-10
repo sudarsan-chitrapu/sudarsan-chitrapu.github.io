@@ -21,7 +21,7 @@ repository               : "sudarsan-chitrapu/sudarsan-chitrapu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myphoto1.png"
+  avatar           : "/images/myphoto1.png"
   name             : "Sai Sudarsan Chitrapu"
   pronouns         : # example: "he/him"  
   bio              : "Hardware design engineer"
