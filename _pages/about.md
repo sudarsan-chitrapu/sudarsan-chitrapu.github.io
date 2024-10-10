@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![chip](/images/chip.png){: .aligh-right width="300px"}
 I am a hardware digital design engineer at Texas Instruments. I have done my B.E. in Electrical and Electronics with a minor in Robotics at BITS Pilani,India. My professional intrests include low-power SoC design, digital design, hardware functional safety, and automation. I am also exploring use of AI-ML in chip design methedologies to help achieve faster and quality tapeouts. 
 
 Beyond my technical pursuits, I’m a devoted violinist with 14 years of experience and a certificate degree in Carnatic(Indian classical) music, having performed in 15 regional and national concerts. In my downtime, you can find me binge-watching Netflix or streaming my favorite tunes on Spotify. If I had to choose just one song for eternity, it would be Avenged Sevenfold's iconic 'Hail to the King'.
