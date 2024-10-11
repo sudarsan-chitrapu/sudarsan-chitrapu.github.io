@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi There! Welcome to Sudarsan's website"
+title: "Hi There! Welcome to my website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 👨‍🔬I am a hardware digital design engineer at Texas Instruments. 
 
 🎓I have done my B.E. in Electrical and Electronics with a minor in Robotics at BITS Pilani,India. 
-<p style="text-align: right"><img src="/images/chip.png" width="200" height="200"></p>
+<p style="text-align: right"><img src="/images/chip.png" width="200 height="200" align="right"></p>
 
 📝My professional intrests include low-power SoC design, digital design, hardware functional safety, 
   and automation. I am also exploring use of AI-ML in chip design methedologies to help achieve faster
