@@ -6,15 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p style="text-align: right"><img src="/images/chip.png" width="200" height="200"></p>
 
 👨‍🔬I am a hardware digital design engineer at Texas Instruments. 
 
 🎓I have done my B.E. in Electrical and Electronics with a minor in Robotics at BITS Pilani,India. 
 
-📝My professional intrests include low-power SoC design, digital design, hardware functional safety, and automation. I am also exploring use of AI-ML in chip design methedologies to help achieve faster and quality tapeouts. 
+📝My professional intrests include low-power SoC design, digital design, hardware functional safety, 
+  and automation. I am also exploring use of AI-ML in chip design methedologies to help achieve faster
+  and quality tapeouts. 
 
-🎻Beyond my technical pursuits, I’m a devoted violinist with 14 years of experience and a certificate degree in Carnatic(Indian classical) music, having performed in 15 regional and national concerts. In my downtime, you can find me binge-watching Netflix or streaming my favorite tunes on Spotify. 
-<p style="text-align: left"><img src="/images/chip.png" width="200" height="200"></p>
+🎻Beyond my technical pursuits, I’m a devoted violinist with 14 years of experience and a certificate
+   degree in Carnatic(Indian classical) music, having performed in 15 regional and national concerts. 
+   In my downtime, you can find me binge-watching Netflix or streaming my favorite tunes on Spotify. 
 
 
 🏻 Industrial research experience
