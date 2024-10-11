@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align: right"><img src="/images/chip.png" width="200" height="200"></p>
+<p style="text-align: left"><img src="/images/chip.png" width="200" height="200"></p>
 
 👨‍🔬I am a hardware digital design engineer at Texas Instruments. 
 
