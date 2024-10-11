@@ -1,4 +1,5 @@
 ---
+
 title: "Sentiment analysis of Reviews"
 excerpt: " In this project, we tried clasifying movie reviews into positive, negitive and neutral classes by understanding the underlying sentiment using deep learning/transformer based models.
 The IMDB reviews dataset is used to perform the experiments.<br/><img src='/images/nlp_img.png' width="500 height="300">"
