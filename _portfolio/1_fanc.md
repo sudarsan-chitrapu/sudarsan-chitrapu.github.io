@@ -4,7 +4,7 @@ excerpt: "Developed a novel fault-tolerant multi-application mapping algorithm c
 collection: portfolio
 ---
 
-In this project,
+In this project, I
 
 1. Investigated fault-tolerant multi-application mapping approaches on network-on-chips(NoC).
 2. Developd and proposed a Deep-reinforcement learning based multi-application mapping algorithm for regular NoC topologies.
