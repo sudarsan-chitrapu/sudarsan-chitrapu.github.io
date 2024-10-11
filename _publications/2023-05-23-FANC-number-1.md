@@ -6,7 +6,7 @@ permalink: /publication/2023-05-23-FANC-number-1
 excerpt: 'This research article proposes a novel fault-tolerant multi-application mapping algorithm called ”FANC.” The approach is based on Deep-Reinforcement Learning (RL) and Graph Neural Networks (GNN), can provide solutions for unseen graphs and topologies without prior training. The approach is evaluated using a variety of simulation parameters, such as communication cost, network latency, throughput, and power usage. The results show that FANC reduces communication costs by 266%. It also improves network latency by 9%, throughput by 1%, and power consumption by 7%.'
 date: 2023-05-23
 venue: 'Memories- Materials, Devices, Circuits and Systems'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2773064623000361'
 citation: 'Jitesh Choudhary, Chitrapu Sai Sudarsan, Soumya J., A performance-centric ML-based multi-application mapping technique for regular Network-on-Chip, Memories - Materials, Devices, Circuits and System, Volume 4, 2023, 100059, ISSN 2773-0646, https://doi.org/10.1016/j.memori.2023.100059.'
 
