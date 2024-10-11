@@ -11,6 +11,7 @@ I am a hardware digital design engineer at Texas Instruments. I have done my B.E
 
 Beyond my technical pursuits, I’m a devoted violinist with 14 years of experience and a certificate degree in Carnatic(Indian classical) music, having performed in 15 regional and national concerts. In my downtime, you can find me binge-watching Netflix or streaming my favorite tunes on Spotify. If I had to choose just one song for eternity, it would be Avenged Sevenfold's iconic 'Hail to the King'.
 
+![image](https://github.com/user-attachments/assets/1338ebb3-84e5-4ba2-a10b-2518cca00444)
 Industrial research experience
 ======
 I am a member of the R&D team for low power connectivity group. My team and I design and develop low-power/low-cost SoCs for automotive and industrial clients. I have worked on various tasks involving IP development and SoC integration of 2.4GHz BLE SoC for low-power automotive usecases, 2.4GHz BLE SoC for industrial and helth devices, sub-1GHz tranciever SoC. I am Currently working on development of serial peripheral IPs(SPI, UART, I2C) and general purpose timers for a new class of 28nm node devices. My expertiese lies in power intent(CPF/UPF) development, power analysis and power optimization. I also have experience in SoC design QC including lint, CDC and low power verification. 
