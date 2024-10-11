@@ -1,6 +1,6 @@
 ---
-title: "Dynamic partial reconfiguration of an image processing sensor node"
-excerpt: "In this project, we built a dynamically partially reconfigarable image processing sensor node using zynq-2000<br/><img src='/images/reconfig.png'>"
+title: "RISC V Pipelined Processor Implementation"
+excerpt: "In this project, I have implemented a 32-bit, 5-stage pipelined processor with Fetch, Decode, Execute, Memory, and Write-Back stages in Verilog. ·	Implemented a forwarding and hazard-detection unit for resolving data, stall, and control hazards. <br/><img src='/images/riscv.png'>"
 collection: portfolio
 ---
 
@@ -12,4 +12,4 @@ To gain access to flash memory, a ZigBee module was be used. This requires the U
 and SPI controller logic blocks for providing connections to the Zigbee module and flash memory
 respectively. We used the ICAP primitive of the zed board that allows control of built-in configuration logic.
 
-[Click here to view the source code](https://github.com/sudarsan-chitrapu/Reconfigurable-FPGA-Sensor-Node
+[Click here to view the source code](https://github.com/sudarsan-chitrapu/Reconfigurable-FPGA-Sensor-Node)
