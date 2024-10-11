@@ -1,6 +1,6 @@
 ---
 title: "Application Mapping on Regular Network on Chip Using Deep-RL Techniques"
-excerpt: "Developed a novel fault-tolerant multi-application mapping algorithm called ”FANC.” This approach is based on Deep-Reinforcement Learning (RL) and Graph Neural Networks (GNN). <br/><img src='/images/fanc.png'>"
+excerpt: "Developed a novel fault-tolerant multi-application mapping algorithm called ”FANC.” This approach is based on Deep-Reinforcement Learning (RL) and Graph Neural Networks (GNN). <br/><img src='/images/noc.jpg'>"
 collection: portfolio
 ---
 
