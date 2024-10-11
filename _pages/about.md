@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align: right"><img src="/images/chip.png"></p>
+![chip](/images/chip.png =250x250){:.aligh-right}
 👨‍🔬I am a hardware digital design engineer at Texas Instruments. 
 
 🎓I have done my B.E. in Electrical and Electronics with a minor in Robotics at BITS Pilani,India. 
