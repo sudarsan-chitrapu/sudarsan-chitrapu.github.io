@@ -27,4 +27,4 @@ The automation scripts were developed, and applied on to a highly power managed 
 
 It also enables early design verification of hard IPs in SoC context, and flat STA which further improves both quality and time to market.
 
-[Download the poster here](/files/DAC_Power_Intent_Automation_Poster.pdf)                [Download the presentation here](/files/123_Final_Presentation_Upload(1).pptx.pdf)
+[Download the poster here](/files/DAC_Power_Intent_Automation_Poster.pdf)                              [Download the presentation here](/files/123_Final_Presentation_Upload(1).pptx.pdf)
