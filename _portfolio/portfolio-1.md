@@ -1,6 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Sentiment analysis of Reviews"
+excerpt: "Sentiment analysis is an important area of research in academia and is also being employed
+by the industry for commercial advantage. There is an explosion of data on opinions of
+masses on products, services, public policies, movies, and so on. In this project, we classify
+movie reviews into either positive, negative and neutral classes based on their polarity. In this project,
+we find the performance of the below DL architectures on movie review classification task.
+  1. Convolutional Neural Network (CNN)
+  2. Fine tuned  Bidirectional Encoder Representations from Transformers (BERT) LLM
+The IMDB reviews dataset is used to perform the experiments.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
